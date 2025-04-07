@@ -6,7 +6,7 @@ def hello_friend():
 ```
 
 ## About Me
-I'm Prachi, a **third year** studying **Math - CS**. I love sunsets, good matcha, Gossip Girl, playing the guitar, weightlifting, and UCSD of course. 
+I'm Prachi, a **third year** studying **Math - CS**. I love sunsets, good matcha, Gossip Girl, playing the guitar, weightlifting, and UCSD of course <3
 
 <img src="images/pfp.jpg" width="200" alt="Profile Picture">
 
