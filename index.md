@@ -50,7 +50,6 @@ Outside of school, I love exploring museums, a good book, and learning how to pl
 
 ## Recent Pictures
 
-<img src="images/image1.jpg" width="200" alt="Recent Photo 1">
 <img src="images/image2.jpg" width="200" alt="Recent Photo 2">
 <img src="images/image3.jpg" width="200" alt="Recent Photo 3">
 
